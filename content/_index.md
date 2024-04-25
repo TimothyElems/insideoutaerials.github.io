@@ -2,7 +2,7 @@
 date = 2024-04-22T20:42:06Z
 draft = false
 title = "Inside Out Aerials"
-tagline = "Photos. Videos. Apps."
+tagline = "Media. Marketing. Applications."
 
 +++
 
